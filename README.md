@@ -24,12 +24,12 @@ The goal of this project is to train a **Deep Neural Network (DNN)** that can ac
 The dataset contains operational measurements of a power plant including:
 
 
-| Feature | Description |
-| Temperature (AT) | Ambient temperature |
-| Exhaust Vacuum (V) | Steam turbine exhaust vacuum |
-| Ambient Pressure (AP) | Atmospheric pressure |
-| Relative Humidity (RH) | Humidity level |
-| Energy Output (PE) | Net hourly electrical energy output |
+- | Feature | Description |
+- | Temperature (AT) | Ambient temperature |
+- | Exhaust Vacuum (V) | Steam turbine exhaust vacuum |
+- | Ambient Pressure (AP) | Atmospheric pressure |
+- | Relative Humidity (RH) | Humidity level |
+- | Energy Output (PE) | Net hourly electrical energy output |
 
 ⚠️ Note: The dataset used in this project is relatively **small**, which may limit model generalization.
 
