@@ -86,10 +86,11 @@ Possible improvements include:
 
 ---
 
-**Result**
-**Training MSE: 20.52**
-**Testing MSE: 18.76**
-**R2 score: 0.934**
+## Result
+
+- **Training MSE: 20.52**
+- **Testing MSE: 18.76**
+- **R2 score: 0.934**
 
 ## 📌 Author
 
